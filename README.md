@@ -6,8 +6,6 @@
 
 ## 🙋‍♂️ About Me
 
-- 🌱 I’m currently learning **React JS**
-
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://dyoll.netlify.app/)**
 
 - 📫 How to reach me **jhonlloydgellica13@gmail.com**
